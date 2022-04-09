@@ -1,10 +1,10 @@
 {
   "ios": {
-    "url": "http://example.com/myAppUpdate",
+    "latest": "1.0.0+1",
     "enabled": true
   },
   "android": {
-    "url": "http://example.com/myAppUpdate/android",
-    "enabled": false
+    "latest": "1.0.0+1",
+    "enabled": true
   }
 }
